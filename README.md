@@ -7,3 +7,4 @@
 - IDE: [Neovim](https://github.com/neovim/neovim)
 - Git UI: [Lazygit](https://github.com/jesseduffield/lazygit)
 - Screenshot tool: [Flameshot](https://github.com/flameshot-org/flameshot)
+#### Checkout my [dotfiles](https://github.com/quadratic-bit/dotfiles)!
