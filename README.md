@@ -3,7 +3,7 @@
 
 #### What soft am I using?
 - OS: [Arch linux](https://archlinux.org/)
-- Window manager: [dwm](https://dwm.suckless.org/) with [dwmblocks](https://github.com/torrinfail/dwmblocks)
+- Tiling compositor: [river](https://github.com/riverwm/river) (with [Waybar](https://github.com/Alexays/Waybar))
 - IDE: [Neovim](https://github.com/neovim/neovim)
 - Git UI: [Lazygit](https://github.com/jesseduffield/lazygit)
 - Screenshot tool: [Flameshot](https://github.com/flameshot-org/flameshot)
