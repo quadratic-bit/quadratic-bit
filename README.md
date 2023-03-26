@@ -3,8 +3,8 @@
 
 #### What soft am I using?
 - OS: [Arch linux](https://archlinux.org/)
-- Tiling compositor: [river](https://github.com/riverwm/river) (with [Waybar](https://github.com/Alexays/Waybar))
+- Tiling compositor: [Hyprland](https://github.com/hyprwm/Hyprland) (with [Waybar](https://github.com/Alexays/Waybar))
 - IDE: [Neovim](https://github.com/neovim/neovim)
 - Git UI: [Lazygit](https://github.com/jesseduffield/lazygit)
-- Screenshot tool: [Flameshot](https://github.com/flameshot-org/flameshot)
+- Screenshot tool: [Flameshot](https://github.com/flameshot-org/flameshot) or [grimshot](https://github.com/swaywm/sway/blob/master/contrib/grimshot)
 #### Checkout my [dotfiles](https://github.com/quadratic-bit/dotfiles)!
