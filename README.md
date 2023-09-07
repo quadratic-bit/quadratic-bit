@@ -3,7 +3,7 @@
 
 #### What software am I using?
 - OS: [Arch linux](https://archlinux.org/)
-  - Tiling compositor: [Hyprland](https://github.com/hyprwm/Hyprland) (with [Eww](https://github.com/elkowar/eww))
+- Tiling compositor: [Hyprland](https://github.com/hyprwm/Hyprland) (with [Eww](https://github.com/elkowar/eww))
 - IDE: [Neovim](https://github.com/neovim/neovim)
 - Git UI: [Lazygit](https://github.com/jesseduffield/lazygit)
 - Screenshot tool: [Flameshot](https://github.com/flameshot-org/flameshot)
